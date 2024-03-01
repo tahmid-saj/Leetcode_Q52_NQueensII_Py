@@ -1,0 +1,1 @@
+# Leetcode_Q52_NQueensII_Py
